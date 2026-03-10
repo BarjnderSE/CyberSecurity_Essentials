@@ -97,3 +97,71 @@ To summarize, the Security Operations Center plays a critical role in defending 
 SOC analysts monitor alerts, analyze logs, investigate incidents, and use security tools to detect and respond to threats.
 
 Understanding SOC fundamentals is the first step toward building a successful career in cybersecurity.
+
+
+Phishing Analysis
+Now let’s understand how SOC analysts detect phishing emails using five important email security records: DNS, MX, SPF, DKIM, and DMARC.”
+
+“These records help us verify whether an email is legitimate or possibly fraudulent.”
+
+DNS
+
+“First is DNS, which stands for Domain Name System.”
+
+“DNS converts a domain name into an IP address so computers can find the correct server.”
+
+“For example, when we type google.com, DNS converts it to an IP address like 142.250.190.14.”
+
+“In phishing attacks, attackers may register similar domains like g00gle.com to trick users.”
+
+“SOC analysts check DNS records to see if the domain looks suspicious.”
+
+MX Record
+
+“Next is the MX record, which stands for Mail Exchange.”
+
+“This record tells the internet which server receives emails for a domain.”
+
+“For example, Gmail uses servers like gmail-smtp-in.l.google.com.”
+
+“If a domain claims to be PayPal but the MX server points to an unknown server, that can indicate fraud.”
+
+SPF
+
+“SPF stands for Sender Policy Framework.”
+
+“It specifies which servers are allowed to send emails on behalf of a domain.”
+
+“When an email arrives, the receiving server checks whether the sender’s IP address is authorized.”
+
+“If the check fails, the email may be spoofed or malicious.”
+
+“This is one of the main ways SOC analysts detect email spoofing.”
+
+DKIM
+
+“DKIM stands for DomainKeys Identified Mail.”
+
+“It adds a digital signature to the email.”
+
+“This signature ensures that the email has not been modified during transmission.”
+
+“If the signature verification fails, it means the email content may have been tampered with.”
+
+DMARC
+
+“Finally, we have DMARC, which stands for Domain-based Message Authentication, Reporting, and Conformance.”
+
+“DMARC tells the receiving email server what action to take if SPF or DKIM fails.”
+
+“The policy can be to monitor the email, quarantine it to spam, or reject it completely.”
+
+“This helps organizations prevent phishing and email spoofing attacks.”
+
+Conclusion
+
+“So in summary, SOC analysts use these records together.”
+
+“DNS identifies the domain, MX verifies the mail server, SPF checks if the sender is authorized, DKIM verifies message integrity, and DMARC defines the final security policy.”
+
+“These mechanisms play a critical role in detecting phishing emails and protecting organizations from cyber attacks.”
