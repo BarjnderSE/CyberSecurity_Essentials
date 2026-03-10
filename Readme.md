@@ -35,3 +35,10 @@ https://drive.google.com/file/d/1pr8RpXc3tnh99sPVEN6zTfSGxySN6amG/view?usp=shari
 - Safe environment for penetration testing
 - Hands-on practice with industry-standard tools
 - Builds foundation for cybersecurity careers
+
+- lINK TO MY you tube series
+## SOC Fundamentals Video
+
+[![Watch Video](https://youtu.be/QHzY6aB3EPo)](https://youtu.be/QHzY6aB3EPo)
+
+https://youtu.be/QHzY6aB3EPo
