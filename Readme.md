@@ -44,6 +44,8 @@ https://drive.google.com/file/d/1pr8RpXc3tnh99sPVEN6zTfSGxySN6amG/view?usp=shari
 https://youtu.be/QHzY6aB3EPo
 Badges
 <img width="1007" heig![THMSOC](https://github.com/user-attachments/assets/bec85d32-1b9d-4704-a29b-f7f923ab306c)
+<img width="944" height="561" alt="image" src="https://github.com/user-attachments/assets/d3883937-edc7-45d5-8ad0-8e4c684233de" />
+
 <img width="1032" height="752" alt="image" src="https://github.com/user-attachments/assets/06ef7502-8af4-45d7-9584-3aa2f7e053dd" />
 <img width="2000" height="1414" alt="LD1" src="https://github.com/user-attachments/assets/4bcf50ce-1604-4478-a6b8-f98bd1ab16dc" />
 
