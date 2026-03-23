@@ -42,3 +42,12 @@ https://drive.google.com/file/d/1pr8RpXc3tnh99sPVEN6zTfSGxySN6amG/view?usp=shari
 [![Watch Video](https://youtu.be/QHzY6aB3EPo)](https://youtu.be/QHzY6aB3EPo)
 
 https://youtu.be/QHzY6aB3EPo
+Badges
+<img width="1007" heig![THMSOC](https://github.com/user-attachments/assets/bec85d32-1b9d-4704-a29b-f7f923ab306c)
+ht="622" alt="image" src="https://github.com/user-attachments/assets/c5b6e17b-0b1e-44ea-9634-adb677c75935" />
+<img width="1032" height="752" alt="image" src="https://github.com/user-attachments/assets/06ef7502-8af4-45d7-9584-3aa2f7e053dd" />
+<img width="2000" height="1414" alt="LD1" src="https://github.com/user-attachments/assets/4bcf50ce-1604-4478-a6b8-f98bd1ab16dc" />
+
+![THMBadges](https://github.com/user-attachments/assets/eefa5f2f-c207-458d-abc4-61c2cfd9a07a)
+
+![SocBadges](https://github.com/user-attachments/assets/92250b2a-b7ce-45a6-a106-5184e53ae847)
