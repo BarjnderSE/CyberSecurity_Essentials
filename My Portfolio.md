@@ -1,5 +1,5 @@
 # Hi there, I'm Barjinder Singh 👋
-### 🛡️ Cybersecurity Aspirant | 📊 Data Analyst | 💻 Software Engineering Student
+### 🛡️ Cybersecurity Aspirant | 📊 Data Analyst | 💻 Software Engineering
  **Computer Science (BCS)** student at the **University of Windsor**, passionate about protecting digital assets and uncovering insights from complex data. I bridge the gap between **Defensive Security (SOC)** and **Business Intelligence**.
 
 ---
@@ -62,7 +62,7 @@ I document my learning journey to help others enter the field. My videos cover:
 - **LinkedIn:** www.linkedin.com/in/barjinder-singh-786729110
 - **YouTube:** https://www.youtube.com/@CyberTechHub-CTH/playlists 
 - **Portfolio:**  https://github.com/BarjnderSE/CyberSecurity_Essentials
-- **PortfolioWebsite:** barjnderse.github.io/Pi/
+- **PortfolioWebsite:** [barjnderse.github.io/Pi/](url)
 
 *"Turning raw logs into actionable intelligence."*
 ### Certificates and Badges
