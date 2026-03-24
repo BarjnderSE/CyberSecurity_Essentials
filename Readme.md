@@ -1,8 +1,5 @@
 # Cybersecurity Lab Setup: VirtualBox, Kali Linux, Metasploitable
 
-This repository contains a step-by-step guide and slide outline for setting up a safe penetration testing lab.
-https://drive.google.com/file/d/1pr8RpXc3tnh99sPVEN6zTfSGxySN6amG/view?usp=sharing
----
 
 ## Tools & Downloads
 - [Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads)
