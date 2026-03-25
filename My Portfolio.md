@@ -60,8 +60,11 @@ I document my learning journey to help others enter the field. My videos cover:
 
 ### 📫 Let's Connect:
 - **LinkedIn:** www.linkedin.com/in/barjinder-singh-786729110
-- **YouTube:** https://www.youtube.com/@CyberTechHub-CTH/playlists 
-- **Portfolio:**  https://github.com/BarjnderSE/CyberSecurity_Essentials
+  To SEE MY VIDEOs CLICK LINK BELOW
+- **YouTube:** https://www.youtube.com/@CyberTechHub-CTH/playlists
+- To see work related CyberSecurity click link below
+- **Portfolio:**  https://github.com/BarjnderSE/Career_Portfolio
+- To see my work related Data Analysis/Software and more click link below
 - **PortfolioWebsite:** https://barjnderse.github.io/Pi/
 
 *"Turning raw logs into actionable intelligence."*
